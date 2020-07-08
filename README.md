@@ -5,12 +5,7 @@
  * @FilePath: \kaggle\README.md
 --> 
 # MyKaggle competition
-## 1. Titanic
-
-titanic_data:
-
-数据清理及特征工程,对各特征进行相关性分析及可视化
-
-titanic_model:
-
-模型训练及参数优化
+Titanic
+- - - -
+- titanic_data: 数据清理及特征工程,对各特征进行相关性分析及可视化
+- titanic_model: 模型训练及参数优化
